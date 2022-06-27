@@ -23,7 +23,7 @@ Tenho 17 anos, moro em Salvador - BA, sou apaixonada por livros e jogos rpg! Est
 <p align="left">🐇 Sou estagiária de nivel médio da <a href="https://sei.ba.gov.br/">SEI</a>;</p>
 <p align="left">🍄 Faço parte do projeto <a href="https://sites.usp.br/astrominas/">Astrominas</a> da USP;</p>
 <p align="left">👾 Sou estudante do projeto <a href ="https://github.com/cienciadedadosnaep">Ciências de Dados na Educação Pública </a> da UFBA;</p>
-<p align="left">📷 Faço um monte de resenhas de livros e metas no <a href ="https://www.skoob.com.br/share/user/swayth">skoob</a>, faço covers de músicas calminhas <a href ="https://www.instagram.com/itswayth/">instagram</a> (mas nunca os salvo) e estudo Imagens e Sons pela Fiocruz.
+<p align="left">📷 Faço um monte de resenhas de livros e metas no <a href ="https://www.skoob.com.br/share/user/swayth">skoob</a>, algumas arteszinhas no <a href ="https://www.instagram.com/itswayth/">instagram</a> (mas nunca os salvo) e estudo Imagens e Sons pela Fiocruz.
 
 
 
