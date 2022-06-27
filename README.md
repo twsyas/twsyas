@@ -38,7 +38,7 @@ Tenho 17 anos, moro em Salvador - BA, sou apaixonada por livros e jogos rpg! Est
 </div>
 
 
-(https://github.com/seu-usuário-aqui/twsyas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/twsyas/twsyas/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 twsyas/twsyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
