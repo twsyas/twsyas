@@ -37,6 +37,7 @@ Tenho 17 anos, moro em Salvador - BA, sou apaixonada por livros e jogos rpg! Est
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=twsyas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![Snake animation](https://github.com/seu-usuário-aqui/twsyas/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 twsyas/twsyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
