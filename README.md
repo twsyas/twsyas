@@ -15,7 +15,7 @@
 
 
 ### Olá, galera!!
-Tenho 17 anos, moro em Salvador - BA, sou apaixonada por livros e jogos rpg! Estou no 2° ano do ensino médio e sou iniciante na programação. :)
+Tenho 16 anos, moro em Salvador - BA, sou apaixonada por livros e jogos rpg! Estou no 2° ano do ensino médio e sou iniciante na programação. :)
 
 ### 🌔 Estou aprendendo: 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" />
