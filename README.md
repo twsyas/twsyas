@@ -1,6 +1,6 @@
 ### Hi!! I'm Yasmin. 👋
 
-- 😸 I’m currently learning python, r language, c/c++ language, sql language and html/css.
+- 😸 I’m currently learning Python, R language, C/C++ language, SQL language and html/css.
   
 <div align="center">
   <a href="https://github.com/twsyas">
