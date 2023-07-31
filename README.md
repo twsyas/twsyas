@@ -1,6 +1,11 @@
 ### Hi!! I'm Yasmin. 👋
 
-- 😸 I’m currently learning Python, R language, C/C++, SQL language and html/css.
+- 😸 I’m currently learning:
+- 
+            <i class="devicon-rstudio-plain"></i>
+          
+          
+-  Python, R language, C/C++, SQL language and html/css.
   
 <div align="center">
   <a href="https://github.com/twsyas">
